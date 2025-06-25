@@ -1,2 +1,3 @@
 # CameraProject
-Making a camera system using a list of parts found on the amazon list linked below!
+I'm making a camera system using a list of parts found on the Amazon list linked below!
+https://www.amazon.com/hz/wishlist/ls/3Q2II0P2TMSZN?ref_=wl_share  <- full list of parts I used (bought in bulk since brother is ECE)
